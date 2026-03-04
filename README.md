@@ -1,5 +1,3 @@
-
-
 # AI Mini Assignments (Python) — Turing Test, CAPTCHA, and Uninformed Search
 
 This repo contains three small Python programs built for AI fundamentals practice:
