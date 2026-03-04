@@ -1,1 +1,5 @@
-# AI_ASSIGNMENT_2_indivualprogramming
+# AI_ASSIGNMENT_2_INDIVIDUAL_PROGRAMMING
+
+Assignmet 1 - Turing Test 
+
+
