@@ -1,4 +1,4 @@
-###AI ASSIGNMENT-2 (INDIVIDUAL ASSIGNMENTS)
+
 
 # AI Mini Assignments (Python) — Turing Test, CAPTCHA, and Uninformed Search
 
