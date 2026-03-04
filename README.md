@@ -20,7 +20,7 @@ This repo contains three small Python programs built for AI fundamentals practic
 
 ### 1) ALL
 ```bash
-python turing_test.py
+python turingt.py
 python captcha.py
 python uninformedsearch.py
 ```
